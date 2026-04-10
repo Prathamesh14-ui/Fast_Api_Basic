@@ -7,4 +7,6 @@ Features:
 
 Run:
 pip install -r requirements.text
+
+
 uvicorn main:app --reload
